@@ -1,4 +1,4 @@
-### Comment lancer une partie
+# Comment lancer une partie
 
 
 ## Creation des executable:
