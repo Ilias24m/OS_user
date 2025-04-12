@@ -10,7 +10,7 @@ Entrer make dans le repertoire
 Une fois le serveur lancé avec :
 ./server 8080
 
-## Connecter 4 joueurs avec cette commande dans un nouveau terminal pour chaque:
+Connecter 4 joueurs avec cette commande dans un nouveau terminal pour chaque:
 
 ./sh13 127.0.0.1 8080 127.0.0.1 0001 Ilyes
 
