@@ -1,7 +1,7 @@
 # Comment lancer une partie
 
 
-## Creation des executable:
+## Creation des executables:
 
 Entrer make dans le repertoire
 
